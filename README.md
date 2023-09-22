@@ -1,1 +1,3 @@
-Graphics Basics# Computer_Graphics
+# Computer_Graphics
+
+using OpenGl, GLFW, GLAD
